@@ -45,7 +45,7 @@
 			"response": []
 		},
 		{
-			"name": "Get all comments",
+			"name": "Get lrytas homepage",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -215,6 +215,15 @@
 						"products"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get postman homepage",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
 			},
 			"response": []
 		}
